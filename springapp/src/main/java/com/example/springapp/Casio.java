@@ -10,17 +10,6 @@ public clas Casio implements Calculator{
     }
     public int add() {
         int sum;
-       sum=num1+num2;
-       //System.out.println(num1+num2);      
-        return sum;
-        // TODO Auto-generated method stub    
-    }
-    public int sub() {
-        // TODO Auto-gene      
-         int diff;
-         diff=num2-num1;
-        // System.out.println(num2-num1);      
-          return diff;
-          
+       
     }
 }
