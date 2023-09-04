@@ -6,7 +6,7 @@ public class Casio implements Calculator{
         this.num1 = num1;
     }
     public void setNum2(int num2) {
-        this.num2 = num2;
+        this.num2 = num22;
     }
     public int add() {
         int sum;
@@ -18,8 +18,9 @@ public class Casio implements Calculator{
     public int sub() {
         // TODO Auto-gene      
          int diff;
-        diff=num2-num11;
+         diff=num2-num1;
         // System.out.println(num2-num1);      
           return diff;
+          return
     }
 }
