@@ -14,6 +14,7 @@ public class AdherenceserviceApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(AdherenceserviceApplication.class, args);
+		console.log("hai")
 	}
 
 }
